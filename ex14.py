@@ -8,9 +8,9 @@ rmars=3397
 r_input=circum_input/(2*pi)
 r_input=int(r_input)
 
-if r_input<=6372&r_input>=6370:
+if r_input<=6380&r_input>=6350:
  print "it's earth"
-elif r_input<=3398&r_input>=3396:
+elif r_input<=3410&r_input>=3390:
  print"it's mars"
 elif r_input<=6391&r_input>=6351:
  print"it' close to the earth"
