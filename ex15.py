@@ -3,4 +3,4 @@ import numpy
 a=numpy.arange(1,2.1,0.1)
 
 for i in a:
- print i**2
+ print i**i
