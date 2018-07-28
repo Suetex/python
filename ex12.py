@@ -22,6 +22,5 @@ print a,b,c,d,e,f,g,h,i,j,k
 list1.append('d')
 print list1
 
-dic={'a':1,2:'b',(1,2):5}
-print dic
+
 
